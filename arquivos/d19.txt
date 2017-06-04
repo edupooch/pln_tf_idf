@@ -1,0 +1,21 @@
+﻿Umbilical venous catheters placement evaluation on frontal radiogram: application
+of a simplified flow-chart for radiology residents.
+
+BACKGROUND: Umbilical Venous Catheter (UVC) are commonly used in neonatal period;
+they can be not correctly positioned and could be associated with complications. 
+The purpose of this article is to suggest a flow-chart to evaluate the placement 
+of UVC, testing it in young radiologists-in-training.
+METHOD: We developed a simple flow-chart to asses, steps by step, UVC placement
+considering its course and tip location (ideally placed in the atriocaval
+junction). We tested the flow-chart impact asking to 20 residents to evaluate the
+placement of 10 UVC before and after they familiarized with the flow-chart and
+the anatomical findings of a newborn. The agreement among the 20 students was
+evaluated too.
+RESULTS: The number of correct characterizations was different due to the
+administration of the flow-chart. One hundred and six correct UVC assessments at 
+the beginning switched to 196 after the administration of the flow-chart
+(p = 0.0001). The observed agreement among the twenty radiology residents was
+statistically significant, both before (kappa = 0.41, p < 0.001) and after
+(kappa = 0.37, p < 0.001) the flow-chart administration.
+CONCLUSION: The developed flow-chart demonstrated to be useful in increasing
+residents performance in UVC placement assessment.

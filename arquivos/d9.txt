@@ -1,0 +1,28 @@
+﻿Lack of security of networked medical equipment in radiology.
+
+OBJECTIVE. There are few articles in the literature describing the security and
+safety aspects of networked medical equipment in radiology departments. Most
+radiologists are unaware of the security issues. We review the security of the
+networked medical equipment of a typical radiology department. MATERIALS AND
+METHODS. All networked medical equipment in a radiology department was scanned
+for vulnerabilities with a port scanner and a network vulnerability scanner, and 
+the vulnerabilities were classified using the Common Vulnerability Scoring
+System. A network sniffer was used to capture and analyze traffic on the
+radiology network for exposure of confidential patient data. We reviewed the use 
+of antivirus software and firewalls on the networked medical equipment. USB ports
+and CD and DVD drives in the networked medical equipment were tested to see
+whether they allowed unauthorized access. Implementation of the virtual private
+network (VPN) that vendors use to access the radiology network was reviewed.
+RESULTS. Most of the networked medical equipment in our radiology department used
+vulnerable software with open ports and services. Of the 144 items scanned, 64
+(44%) had at least one critical vulnerability, and 119 (83%) had at least one
+high-risk vulnerability. Most equipment did not encrypt traffic and allowed
+capture of confidential patient data. Of the 144 items scanned, two (1%) used
+antivirus software and three (2%) had a firewall enabled. The USB ports were not 
+secure on 49 of the 58 (84%) items with USB ports, and the CD or DVD drive was
+not secure on 17 of the 31 (55%) items with a CD or DVD drive. One of three
+vendors had an insecure implementation of VPN access. CONCLUSION. Radiologists
+and the medical industry need to urgently review and rectify the security issues 
+in existing networked medical equipment. We hope that the results of our study
+and this article also raise awareness among radiologists about the security
+issues of networked medical equipment.

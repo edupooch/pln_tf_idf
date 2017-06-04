@@ -1,0 +1,28 @@
+﻿Frequency and analysis of non-clinical errors made in radiology reports using the
+National Integrated Medical Imaging System voice recognition dictation software.
+
+BACKGROUND: Voice recognition (VR) dictation of radiology reports has become the 
+mainstay of reporting in many institutions worldwide. Despite benefit, such
+software is not without limitations, and transcription errors have been widely
+reported.
+AIM: Evaluate the frequency and nature of non-clinical transcription error using 
+VR dictation software.
+METHODS: Retrospective audit of 378 finalised radiology reports. Errors were
+counted and categorised by significance, error type and sub-type. Data regarding 
+imaging modality, report length and dictation time was collected.
+RESULTS: 67 (17.72 %) reports contained ≥1 errors, with 7 (1.85 %) containing
+'significant' and 9 (2.38 %) containing 'very significant' errors. A total of 90 
+errors were identified from the 378 reports analysed, with 74 (82.22 %)
+classified as 'insignificant', 7 (7.78 %) as 'significant', 9 (10 %) as 'very
+significant'. 68 (75.56 %) errors were 'spelling and grammar', 20 (22.22 %)
+'missense' and 2 (2.22 %) 'nonsense'. 'Punctuation' error was most common
+sub-type, accounting for 27 errors (30 %). Complex imaging modalities had higher 
+error rates per report and sentence. Computed tomography contained 0.040 errors
+per sentence compared to plain film with 0.030. Longer reports had a higher error
+rate, with reports >25 sentences containing an average of 1.23 errors per report 
+compared to 0-5 sentences containing 0.09.
+CONCLUSION: These findings highlight the limitations of VR dictation software.
+While most error was deemed insignificant, there were occurrences of error with
+potential to alter report interpretation and patient management. Longer reports
+and reports on more complex imaging had higher error rates and this should be
+taken into account by the reporting radiologist.

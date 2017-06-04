@@ -1,0 +1,32 @@
+﻿Quality assurance in digital dental radiography--justification and dose reduction
+in dental and maxillofacial radiology.
+
+OBJECTIVE: To evaluate the implementation of quality assurance requirements for
+digital dental radiography in routine clinical practice. The results should be
+discussed by radiation protection authorities in the context of the relevant
+legal requirements and current debates on radiation protection.
+MATERIALS AND METHODS: Two hundred digital dental radiographs were randomly
+selected from the digital database of the Department of Dentistry's Dental and
+Maxillofacial Surgery Clinic, Ulm University, and evaluated for various aspects
+of image quality and compliance with radiographic documentation requirements. The
+dental films were prepared by different radiology assistants (RAs) using one of
+two digital intraoral radiographic systems: Sirona Heliodent DS, 60 kV, focal
+spot size: 0.7 mm (group A) or KaVo Gendex 765 DC, 65 kV, focal spot size: 0.4 mm
+(group B).
+RESULTS: Radiographic justification was documented in 70.5% of cases, and the
+radiographic findings in 76.5%. Both variables were documented in the patient
+records as well as in the software in 14% of cases. Clinical documentation of the
+required information (name of the responsible dentist and radiology assistant,
+date, patient name, department, tube voltage, tube current, exposure time, type
+of radiograph, film size, department and serial number of the dental radiograph) 
+was 100% complete in all cases. Moreover, the department certified according to
+DIN ISO 9001:2008 specifications demonstrated complete clinical documentation of 
+radiographic justifications and radiographic findings. The entire dentition was
+visible on 83% of the digital films. The visible area corresponded to the target 
+region on 85.7% of the digital dental radiographs. Seven to 8.5% of the images
+were classified as "hypometric" or "hypermetric".
+CONCLUSIONS: This study indicates that improvements in radiology training and
+continuing education fordentists and dental staff performing x-ray examinations
+are needed to ensure consistent high quality of digital dental radiography.
+Implementation of internal radiological quality assurance programs, as required
+by public law in Germany since 2010 (SGB V), would appear prudent.

@@ -1,0 +1,23 @@
+﻿A CONCEPTUAL FRAMEWORK FOR MANAGING RADIATION DOSE TO PATIENTS IN DIAGNOSTIC
+RADIOLOGY USING REFERENCE DOSE LEVELS.
+
+The overall aim of the present work was to develop a conceptual framework for
+managing radiation dose in diagnostic radiology with the intention to support
+optimisation. An optimisation process was first derived. The framework for
+managing radiation dose, based on the derived optimisation process, was then
+outlined. The outset of the optimisation process is four stages: providing
+equipment, establishing methodology, performing examinations and ensuring
+quality. The optimisation process comprises a series of activities and actions at
+these stages. The current system of diagnostic reference levels is an activity in
+the last stage, ensuring quality. The system becomes a reactive activity only to 
+a certain extent engaging the core activity in the radiology department,
+performing examinations. Three reference dose levels-possible, expected and
+established-were assigned to the three stages in the optimisation process,
+excluding ensuring quality. A reasonably achievable dose range is also derived,
+indicating an acceptable deviation from the established dose level. A reasonable 
+radiation dose for a single patient is within this range. The suggested framework
+for managing radiation dose should be regarded as one part of the optimisation
+process. The optimisation process constitutes a variety of complementary
+activities, where managing radiation dose is only one part. This emphasises the
+need to take a holistic approach integrating the optimisation process in
+different clinical activities.

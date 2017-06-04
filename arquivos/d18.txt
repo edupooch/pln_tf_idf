@@ -1,0 +1,21 @@
+﻿A new e-learning platform for radiology education (RadEd).
+
+One of the key elements of e-learning platforms is the content provided to the
+students. Content creation is a time demanding task that requires teachers to
+prepare material taking into account that it will be accessed on-line. Moreover, 
+the teacher is restricted by the functionalities provided by the e-learning
+platforms. In contexts such as radiology where images have a key role, the
+required functionalities are still more specific and difficult to be provided by 
+these platforms. Our purpose is to create a framework to make teacher's tasks
+easier, specially when he has to deal with contents where images have a main
+role. In this paper, we present RadEd, a new web-based teaching framework that
+integrates a smart editor to create case-based exercises that support image
+interaction such as changing the window width and the grey scale used to render
+the image, taking measurements on the image, attaching labels to images and
+selecting parts of the images, amongst others. It also provides functionalities
+to prepare courses with different topics, exercises and theory material, and also
+functionalities to control students' work. Different experts have used RadEd and 
+all of them have considered it a very useful and valuable tool to prepare courses
+where radiological images are the main component. RadEd provides teachers
+functionalities to prepare more realistic cases and students the ability to make 
+a more specific diagnosis.

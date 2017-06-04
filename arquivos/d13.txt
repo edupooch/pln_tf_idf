@@ -1,0 +1,20 @@
+﻿Natural Language Processing in Radiology: A Systematic Review.
+
+Radiological reporting has generated large quantities of digital content within
+the electronic health record, which is potentially a valuable source of
+information for improving clinical care and supporting research. Although
+radiology reports are stored for communication and documentation of diagnostic
+imaging, harnessing their potential requires efficient and automated information 
+extraction: they exist mainly as free-text clinical narrative, from which it is a
+major challenge to obtain structured data. Natural language processing (NLP)
+provides techniques that aid the conversion of text into a structured
+representation, and thus enables computers to derive meaning from human (ie,
+natural language) input. Used on radiology reports, NLP techniques enable
+automatic identification and extraction of information. By exploring the various 
+purposes for their use, this review examines how radiology benefits from NLP. A
+systematic literature search identified 67 relevant publications describing NLP
+methods that support practical applications in radiology. This review takes a
+close look at the individual studies in terms of tasks (ie, the extracted
+information), the NLP methodology and tools used, and their application purpose
+and performance results. Additionally, limitations, future challenges, and
+requirements for advancing NLP in radiology will be discussed.

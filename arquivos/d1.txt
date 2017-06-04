@@ -1,0 +1,31 @@
+﻿Awareness of radiation protection and dose levels of imaging procedures among
+medical students, radiography students, and radiology residents at an academic
+hospital: Results of a comprehensive survey.
+
+PURPOSE: To evaluate the awareness of radiation protection issues and the
+knowledge of dose levels of imaging procedures among medical students, radiology 
+residents, and radiography students at an academic hospital.
+MATERIAL AND METHODS: A total of 159 young doctors and students (including 60
+radiology residents, 56 medical students, and 43 radiography students) were
+issued a questionnaire consisting of 16 multiple choice questions divided into
+three separated sections (i.e., demographic data, awareness about radiation
+protection issues, and knowledge about radiation dose levels of common
+radiological examinations).
+RESULTS: Medical students claimed to have at least a good knowledge of radiation 
+protection issues more frequently than radiology residents and radiography
+students (94.4% vs 55% and 35.7%, respectively; P<0.05), with no cases of
+perceived excellent knowledge among radiography students. However, the actual
+knowledge of essential radiation protection topics such as regulations, patient
+and tissue susceptibility to radiation damage, professional radiation risk and
+dose optimisation, as well as of radiation doses delivered by common radiological
+procedures was significantly worse among medical students than radiology
+residents and radiography students (P<0.05). Those latter significantly
+outperformed radiology residents as to knowledge of radiation protection issues
+(P<0.01). Overall, less than 50% of survey respondents correctly answered all
+questions of the survey.
+CONCLUSIONS: Radiology residents, radiography students and medical students have 
+a limited awareness about radiation protection, with a specific gap of knowledge 
+concerning real radiation doses of daily radiological examinations. Both
+undergraduate and postgraduate teaching needs to be effectively implemented with 
+radiation safety courses.
+

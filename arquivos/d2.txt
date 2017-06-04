@@ -1,0 +1,24 @@
+﻿Dose audit for patients undergoing two common radiography examinations with
+digital radiology systems.
+
+PURPOSE: We aimed to determine the radiation doses delivered to patients
+undergoing general examinations using computed or digital radiography systems in 
+Turkey.
+MATERIALS AND METHODS: Radiographs of 20 patients undergoing posteroanterior
+chest X-ray and of 20 patients undergoing anteroposterior kidney-ureter-bladder
+radiography were evaluated in five X-ray rooms at four local hospitals in the
+Ankara region. Currently, almost all radiology departments in Turkey have
+switched from conventional radiography systems to computed radiography or digital
+radiography systems. Patient dose was measured for both systems. The results were
+compared with published diagnostic reference levels (DRLs) from the European
+Union and International Atomic Energy Agency.
+RESULTS: The average entrance surface doses (ESDs) for chest examinations
+exceeded established international DRLs at two of the X-ray rooms in a hospital
+with computed radiography. All of the other ESD measurements were approximately
+equal to or below the DRLs for both examinations in all of the remaining
+hospitals. Improper adjustment of the exposure parameters, uncalibrated automatic
+exposure control systems, and failure of the technologists to choose exposure
+parameters properly were problems we noticed during the study.
+CONCLUSION: This study is an initial attempt at establishing local DRL values for
+digital radiography systems, and will provide a benchmark so that the authorities
+can establish reference dose levels for diagnostic radiology in Turkey.

@@ -1,0 +1,27 @@
+﻿Data analysis and review of radiology services at Glasgow 2014 Commonwealth
+Games.
+
+BACKGROUND: Medical services at the Glasgow 2014 Commonwealth Games (CWG) were
+provided though a purpose-built medical polyclinic, which had a fully equipped
+radiology department along with other services, set up within the main Games
+Village. Data analysis of radiology services offered at CWG has not been
+published before.
+SETTING: Imaging services within the polyclinic, Athletes Village, Glasgow 2014
+CWG.
+AIM: The aim of the paper is to analyse data on radiological investigations and
+assess the demand and distribution of workload on imaging services at CWG 2014.
+METHODOLOGY: Data on radiology investigations at the CWG 2014 was retrieved from 
+the Carestream picture archiving and communication system (PACS) and Pharmasys
+(CWG official centralised electronic database system) and analysed.
+RESULTS: Six hundred ninety-seven diagnostic and interventional procedures were
+performed. Of these 37.9% were magnetic resonance imaging (MRI) scans, 22% were
+diagnostic ultrasound (US) examinations, 33.1% were radiographs, 4.3% were
+computed tomography (CT) scans and 2.7% were imaging-guided interventional
+procedures. 88% of imaging was performed on athletes and the remainder were
+performed on team officials and workforce. Demand on radiology services gradually
+picked up through the pre-competition period and peaked half way through the CWG.
+CONCLUSIONS: Radiology played a vital role in the successful provision of medical
+services at the Glasgow 2014 CWG. High demand on imaging services can be expected
+at major international sporting events and therefore pre-event planning is vital.
+Having back-up facilities in case of technical failure should be given due
+importance when planning radiology services at future CWG events.
