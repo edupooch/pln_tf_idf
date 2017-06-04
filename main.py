@@ -84,15 +84,22 @@ for t in range(len(termos)):
         matriz_tf_idf[t][d] = matriz_w[t][d] * idf
 
     # SALVA ARQUIVOS
-    print >> tf_file, matriz_tf[t], ":", termos[t], '\n'
-    print >> w_file, matriz_w[t], ":", termos[t], '\n'
-    print >> df_file, df, ":", termos[t], '\n'
-    print >> idf_file, idf, ":", termos[t], '\n'
-    print >> tf_idf_file, matriz_tf_idf[t], ":", termos[t], '\n'
+    print >> tf_file, matriz_tf[t], ":", termos[t]
+    print >> w_file, matriz_w[t], ":", termos[t]
+    print >> df_file, df, ":", termos[t]
+    print >> idf_file, idf, ":", termos[t]
+    print >> tf_idf_file, matriz_tf_idf[t], ":", termos[t]
+
+soma_file = open('soma_tfidf.txt', 'w')
+soma = [0 for t in termos]
+for t in range(len(termos)):
+    for d in range(len(documentos)):
+        soma[t] = soma[t] + matriz_tf_idf[t][d]
+    print >> soma_file, soma[t], ";", termos[t]
+
 
 query = ['radiology']
 query = reduz_ao_radical_stem(query)
-
 for d in range(len(documentos)):
     score = 0
     for t in range(len(query)):
