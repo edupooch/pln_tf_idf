@@ -1,7 +1,8 @@
 # coding=utf-8
+import nltk
 
-# nltk.download('wordnet')
-# nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('stopwords')
 
 import copy
 import math
@@ -38,6 +39,7 @@ def main():
     matriz_tf = [[0 for d in documentos] for t in termos]
     matriz_w = copy.deepcopy(matriz_tf)
     matriz_tf_idf = copy.deepcopy(matriz_tf)
+    matriz_idf = [0 for t in termos]
 
     for t in range(len(termos)):
         for d in range(len(documentos)):
@@ -45,16 +47,16 @@ def main():
             matriz_tf[t][d] = tf
             matriz_w[t][d] = pondera(tf)
         df = sum(1 for i in matriz_w[t] if i > 0)
-        idf = math.log10(len(documentos)) / df
+        matriz_idf[t] = math.log10(len(documentos)) / df
 
         for d in range(len(documentos)):
-            matriz_tf_idf[t][d] = matriz_w[t][d] * idf
+            matriz_tf_idf[t][d] = matriz_w[t][d] * matriz_idf[t]
 
         # SALVA ARQUIVOS
         print >> tf_file, matriz_tf[t], ":", termos[t]
         print >> w_file, matriz_w[t], ":", termos[t]
         print >> df_file, df, ":", termos[t]
-        print >> idf_file, idf, ":", termos[t]
+        print >> idf_file, matriz_idf[t], ":", termos[t]
         print >> tf_idf_file, matriz_tf_idf[t], ":", termos[t]
 
     # fecha as files
@@ -68,8 +70,13 @@ def main():
     soma = [0 for t in termos]
     for t in range(len(termos)):
         for d in range(len(documentos)):
+            if math.log10(len(documentos)) == matriz_idf[t]:
+                um_doc = "*"
+            else:
+                um_doc = ""
+
             soma[t] = soma[t] + matriz_tf_idf[t][d]
-        print >> soma_file, soma[t], ";", termos[t]
+        print >> soma_file, soma[t], ";", termos[t], um_doc
 
     query = ['radiology']
     query = reduz_ao_radical_stem(query)
